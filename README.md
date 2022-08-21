@@ -1,2 +1,2 @@
-# template-npm-typescript-react
-template for npm x typescript x react
+# template-pkg-ts-react
+template for npm package using typescript and react
