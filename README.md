@@ -33,5 +33,5 @@ If you release to npm, you should run below commands
 ```yarn
 yarn rollup
 yarn login
-yarn publish
+yarn publish --access=public
 ```
